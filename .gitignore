@@ -1,0 +1,17 @@
+.vscode
+
+# Ignore object files and executable
+*.o
+*.obj
+*.exe
+*.out
+*.gch
+
+# Ignore debugging files
+*.dSYM/
+*.pdb
+
+# Ignore other temporary or compiled files
+*.log
+*.tmp
+fahrenheitToCelsius
